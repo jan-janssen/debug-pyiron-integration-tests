@@ -38,5 +38,3 @@ dependencies:
 - sqsgenerator
 - gpaw =23.9.1
 - pip
-- pip:
-  - git+https://github.com/pyiron/pyiron_base.git@subprocess_env_bug
