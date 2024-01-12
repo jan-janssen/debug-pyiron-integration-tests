@@ -1,0 +1,2 @@
+#!/bin/bash
+pip install git+https://github.com/pyiron/pyiron_base.git@subprocess_env_bug --no-deps --no-build-isolation
